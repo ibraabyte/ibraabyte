@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal</title>
+  <desc id="desc">A large geometric command prompt with no text.</desc>
+  <style>
+    .bg { fill: oklch(0.08 0 0); }
+    .ink { stroke: oklch(0.93 0 0); }
+    .primary { fill: oklch(0.636 0.218 355.3); }
+    .quiet { fill: oklch(0.22 0 0); }
+  </style>
+  <rect class="bg" width="1200" height="260"/>
+  <circle class="quiet" cx="78" cy="52" r="6"/>
+  <circle class="quiet" cx="102" cy="52" r="6"/>
+  <circle class="quiet" cx="126" cy="52" r="6"/>
+  <path class="ink" d="M430 82L506 130L430 178" fill="none" stroke-width="15" stroke-linecap="square" stroke-linejoin="miter"/>
+  <rect class="primary" x="548" y="169" width="190" height="15"/>
+  <rect x="114" y="207" width="972" height="2" fill="oklch(0.20 0 0)"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Orbit</title>
+  <desc id="desc">A quiet orbital composition with two colored markers.</desc>
+  <style>
+    .bg { fill: oklch(1 0 0); }
+    .ink { stroke: oklch(0.12 0 0); }
+    .muted { stroke: oklch(0.78 0 0); }
+    .primary { fill: oklch(0.636 0.218 355.3); }
+    .accent { fill: oklch(0.66 0.17 235); }
+  </style>
+  <rect class="bg" width="1200" height="260"/>
+  <ellipse class="muted" cx="600" cy="130" rx="390" ry="72" fill="none" stroke-width="2"/>
+  <ellipse class="ink" cx="600" cy="130" rx="238" ry="108" fill="none" stroke-width="2" transform="rotate(-8 600 130)"/>
+  <circle class="ink" cx="600" cy="130" r="12" fill="oklch(0.12 0 0)" stroke="none"/>
+  <circle class="primary" cx="366" cy="72" r="9"/>
+  <circle class="accent" cx="910" cy="174" r="6"/>
+  <circle cx="796" cy="56" r="3" fill="oklch(0.12 0 0)"/>
+</svg>

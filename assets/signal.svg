@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Signal</title>
+  <desc id="desc">A restrained abstract signal line on a dark field.</desc>
+  <style>
+    .bg { fill: oklch(0.08 0 0); }
+    .quiet { stroke: oklch(0.34 0 0); }
+    .bright { stroke: oklch(0.636 0.218 355.3); }
+    .node { fill: oklch(0.636 0.218 355.3); }
+    .marker { fill: oklch(0.62 0 0); }
+  </style>
+  <rect class="bg" width="1200" height="260"/>
+  <path class="quiet" d="M0 142H378" fill="none" stroke-width="2"/>
+  <path class="bright" d="M378 142H438L470 91L505 188L545 116L578 142H760" fill="none" stroke-width="3" stroke-linejoin="miter"/>
+  <path class="quiet" d="M760 142H1200" fill="none" stroke-width="2"/>
+  <circle class="node" cx="470" cy="91" r="6"/>
+  <rect class="marker" x="174" y="204" width="2" height="16"/>
+  <rect class="marker" x="599" y="204" width="2" height="16"/>
+  <rect class="marker" x="1024" y="204" width="2" height="16"/>
+</svg>
