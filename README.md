@@ -8,13 +8,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibraabyte&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibraabyte&theme=dark&hide_border=false" alt="GitHub streak" />
+<img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ibraabyte&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+
+<br />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibraabyte&theme=dark&hide_border=false" alt="GitHub streak" />
 
 </div>
-
-<details>
-<summary>OSSInsight · Last 28 days</summary>
-<br />
-<img width="100%" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=267810129&image_size=auto" alt="OSSInsight activity from the last 28 days" />
-</details>
