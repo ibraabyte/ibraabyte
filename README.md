@@ -1,1 +1,1 @@
-<img src="./assets/signal.svg" width="100%" alt="" />
+<img src="./assets/orbit.svg" width="100%" alt="" />
